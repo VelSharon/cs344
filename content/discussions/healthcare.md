@@ -2,8 +2,11 @@
 title: "AI in Healthcare"
 author: "Sharon Velpula"
 ---
+## Verse
+Genesis 1:26
 
-Source: [Potential for AI in healthcare](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616181/)
+Then God said, “Let us make **man in our image**, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and **over all the earth** and over every creeping thing that creeps on the earth.”
+                                                                               
 
 ## Background
 The complexities involved in healthcare industries are no less than that of tech companies. With huge amounts of data and labor-intensive tasks to be done, the struggles of healthcare employees were most vividly seen during the pandemic. Artificial Intelligence and related technologies have the potential to make lives better of these employees by assisting in various aspects of patient care, as well as administrative processes within the organizations. While the future is uncertain about the role of AI, our current focus should be on how it can be integrated into our lives to provide efficiency and simplicity. 
@@ -11,12 +14,12 @@ The complexities involved in healthcare industries are no less than that of tech
 ## Uses
 Based on the article above, various research studies have suggested that AI can perform well at key healthcare tasks. Here are some applications:  
 
-- Recognition of potentially cancerous lesions in radiology images
 -	Using NLP systems to analyze unstructured clinical notes on patients, prepare reports (eg on radiology examinations), transcribe patient interactions and conduct conversational AI 
+-	Using predictive analytics with patient populations, healthcare providers can take preventative action, reduce health risk, and save unnecessary costs
 -	Surgical robots provide ‘superpowers’ to surgeons by improving their ability to see, creating precise and minimally invasive incisions, stitching wounds, etc
 -	AI would assist in management of referrals, patient scheduling, and exam preparations to enhance the patient experience and allow an efficient use of the facilities 
 -	AI could help combine large amounts of clinical data to generate a more holistic view of patients
--	Using predictive analytics with patient populations, healthcare providers can take preventative action, reduce health risk, and save unnecessary costs
+-	Recognition of potentially cancerous lesions in radiology images
 
 ## Potential concerns
 Nothing is perfect and the same applies to AI. With all the benefits it offers, there are some dangers as well. 
@@ -41,6 +44,8 @@ What if doctors/healthcare workers over-trust AI recommendations?
 - There could be discrepancies in a diagnosis leading to the patient being administered an incorrect treatment 
 
 ## References
+[Potential for AI in healthcare](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616181/)
+
 [Racial Bias in Healthcare](https://www.nature.com/articles/d41586-019-03228-6)
 
 [Applications of AI](https://www.usa.philips.com/healthcare/nobounds/four-applications-of-ai-in-healthcare)
