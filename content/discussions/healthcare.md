@@ -37,10 +37,10 @@ Nothing is perfect and the same applies to AI. With all the benefits it offers, 
 What if doctors/healthcare workers over-trust AI recommendations?
 
 - Machine learning systems may be subject to algorithmic bias, perhaps predicting greater likelihood of disease on the basis of gender or race when those are not actually causal factors
-- There could be discrepancies in a diagnosis leading to the patient being administered an incorrect treatment 
 - A patient would likely want to know how their disease has been diagnosed by an AI generated image but deep learning algorithms, and even physicians who are generally familiar with their operation, may be unable to provide an explanation
+- There could be discrepancies in a diagnosis leading to the patient being administered an incorrect treatment 
 
-## Further reading
+## References
 [Racial Bias in Healthcare](https://www.nature.com/articles/d41586-019-03228-6)
 
 [Applications of AI](https://www.usa.philips.com/healthcare/nobounds/four-applications-of-ai-in-healthcare)
